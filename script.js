@@ -69,3 +69,7 @@ console.log(10 === "10") // false
 console.log(10 != "10") // false (é igual)
 console.log(10 !== "10") // true (é diferente)
 
+//
+// && and
+// || or
+// ! not
